@@ -1,0 +1,11 @@
+.list-reset {
+  list-style: none;
+}
+
+.header {
+  background-image: url(/images/header-background.jpg);
+}
+
+.nav_list {
+  margin: 0;
+}
